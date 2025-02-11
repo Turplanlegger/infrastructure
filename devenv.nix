@@ -1,0 +1,3 @@
+{
+  languages.terraform.enable = true;
+}
